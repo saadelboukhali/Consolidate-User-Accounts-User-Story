@@ -50,14 +50,3 @@ The workflow for this feature includes:
 5. User clicks **Cancel** → system navigates back to **Accounts Overview** page.
 
 ---
-
-## 👤 Author
-**Saad Elboukhali**
-
----
-
-## ⭐ Notes
-This project can be extended by:
-- Adding **UML wireframes / flow diagrams**  
-- Developing a **functional prototype**  
-- Including additional **validation scenarios and edge cases**
